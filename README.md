@@ -1,4 +1,4 @@
-# leetcode-solution
+# LeetCode Solution
 This repository contains solutions to various LeetCode problems. Each problem is solved using Python and follows a clear structure for better understanding.
 
 ## Table of Contents
